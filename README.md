@@ -14,3 +14,5 @@ Learning Objectives [# STAT301 3 Credits Probability & Statistics ](https://pawa
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 [Github:](https://github.com/spawar2/STAT302)
+
+STAT341 (3 credit) Spring 2023 (20 students)
