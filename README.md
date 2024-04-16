@@ -17,4 +17,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 [Github:](https://github.com/spawar2/STAT302)
 
-STAT341 (3 credit) Spring 2023 (20 students)
+STAT341 (3 credit) Spring 2023 (20 students) **Undergraduate Class & Lab
