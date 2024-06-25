@@ -19,3 +19,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 STAT341 (3 credit) Spring 2023 (20 students) **Undergraduate Class & Lab https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/
+Claflin University, Orangeburg, South Carolina, USA
