@@ -26,4 +26,4 @@ Aug-18.Rd: Descriptive statistics (Mean, Mode, Median, Standard Deviation, Varia
 Oct 13-341.Rd: Probability distribution functions.
 SEP-8-301.Rd: Analysis of Variance (ANOVA) test and ggscatter plot.
 Sep 15.Rd: T-test analysis and line plot.
-selected function(mlv, library, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot).
+selected function(mlv, library, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot). Student T test distribution plot: Student t dis.png
